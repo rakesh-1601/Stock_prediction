@@ -1,6 +1,4 @@
 #Hello there... myself Rakesh pandey
-#Student at NIT jalndhar(First year -CSE branch)
-#And this is MAJOR project
 #To predict the prices of google stocks !!!!
 #I have implemented both Linear model and polynomial model to predict!!!
 
